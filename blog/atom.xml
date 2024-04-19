@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.13171876.xyz/blog</id>
+    <title>白金biu Blog</title>
+    <updated>2024-04-18T22:45:37.722Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.13171876.xyz/blog"/>
+    <subtitle>白金biu Blog</subtitle>
+    <icon>https://blog.13171876.xyz/img/logo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[摆烂]]></title>
+        <id>https://blog.13171876.xyz/blog/intro</id>
+        <link href="https://blog.13171876.xyz/blog/intro"/>
+        <updated>2024-04-18T22:45:37.722Z</updated>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://blog.13171876.xyz/assets/images/000000-890005c4c0145fff35e81f7f08f41f56.jpg" width="1000" height="1000" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>白金biu</name>
+            <uri>https://blog.13171876.xyz/</uri>
+        </author>
+    </entry>
+</feed>
